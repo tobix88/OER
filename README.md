@@ -18,3 +18,23 @@ It basically just means "Odd Even Rule".
 
 # File gets flagged by Windows Defender
 Don't panic, you can trust me. If you don't, look at the source code in OER/Source/main.cpp
+
+# Known Bugs
+Segmentations fault on Termux. Linux on Desktop not tested yet. Windows apparently works.
+
+# How to build
+
+Download Git directory before compiling
+
+- **Windows:**
+C++ Compiler needed
+`````g++ main.cpp`````
+
+- **Linux:**
+Needed, if not already installed:
+`````apt install clang`````
+,then:
+`````g++ main.cpp`````, `````./a.out`````
+
+- **macOS:**
+Don't know yet
