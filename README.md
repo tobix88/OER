@@ -15,3 +15,6 @@ It basically just means "Odd Even Rule".
 
 
 **That's it**
+
+# File gets flagged by Windows Defender
+Don't panic, you can trust me. If you don't, look at the source code in OER/Source/main.cpp
