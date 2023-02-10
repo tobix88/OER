@@ -34,7 +34,7 @@ C++ Compiler needed
 Needed, if not already installed:
 `````apt install clang`````
 ,then:
-`````g++ main.cpp`````, `````./a.out`````
+`````clang++ main.cpp`````, `````./a.out`````
 
 - **macOS:**
 Don't know yet
